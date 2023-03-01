@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SemarangTravel</string>
+    <string name="menu_detail">Detail</string>
+    <string name="email">dimaszulfa123@gmail.com</string>
+    <string name="about_me">About Page</string>
+    <string name="back">Back</string>
+    <string name="empty_data">Data Kosong</string>
+    <string name="nama">DIMAS ZULFA SANTANA</string>
+    <string name="star">999999 XP</string>
+    <string name="menu_home">Home</string>
+    <string name="location">Kota Semarang</string>
+    <string name="times">Bergabung sejak 2018</string>
+    <string name="placeholder_search">Search..</string>
+    <string name="my_image"><![CDATA[https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:30cfe8b205ef3d7a9c3632f8cc00e09020220311082531.png]]></string>
+    <string name="place_information">Informasi Tempat</string>
+    <string name="place_location">Lokasi</string>
+</resources>
